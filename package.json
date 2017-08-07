@@ -1,0 +1,25 @@
+{
+  "name": "friendr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g-anico/Friendr.git"
+  },
+  "author": "anco chien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g-anico/Friendr/issues"
+  },
+  "homepage": "https://github.com/g-anico/Friendr#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "path": "^0.12.7"
+  }
+}
