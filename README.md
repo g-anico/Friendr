@@ -4,4 +4,3 @@ A compatibility-based "Friend Finder" application. This full-stack app will take
 
 Developed using Node and Express servers.
 
-Copyright (c) [2017] [Anco Chien] 
